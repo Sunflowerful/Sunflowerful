@@ -1,7 +1,9 @@
 <div < align="center">
 
+<img width="575" height="73" alt="1000018247" src="https://github.com/user-attachments/assets/45546b04-aa44-491b-94a5-9346bfaa4527" />
 
-### • ▬▭▬ . ▬▭▬ ✧ ▬▭▬ . ▬▭▬ •
+
+### •  ▭ ▬ . ▬▭ ▬ ✧ ▬▭▬ . ▬▭▬ •
 
 
    
@@ -19,12 +21,12 @@
     <tr>
       <td>
         <br>
-$\color{#c4582b}{\textsf{info info info info info info info info}}$<br>
-$\color{#c4582b}{\textsf{info info info info info info info info}}$<br>
-$\color{#c4582b}{\textsf{info info info info info info info info}}$<br>
-$\color{#c4582b}{\textsf{info info info info info info info info}}$<br>
-$\color{#c4582b}{\textsf{info info info info info info info info}}$<br>
-$\color{#c4582b}{\textsf{info info info info info info info info}}$<br>
+$\color{#E0CECE}{\textsf{info info info info info info info info}}$<br>
+$\color{#E0CECE}{\textsf{info info info info info info info info}}$<br>
+$\color{#E0CECE}{\textsf{info info info info info info info info}}$<br>
+$\color{#E0CECE}{\textsf{info info info info info info info info}}$<br>
+$\color{#E0CECE}{\textsf{info info info info info info info info}}$<br>
+$\color{#E0CECE}{\textsf{info info info info info info info info}}$<br>
         <br>
           <br>
       </td>
@@ -32,5 +34,9 @@ $\color{#c4582b}{\textsf{info info info info info info info info}}$<br>
   </table>
 
 
+
+
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31rut6lpu67mybr4g2pdtqsgcb5u&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=light)](https://github.com/kittinan/spotify-github-profile)
   
+ <img width="575" height="73" alt="1000018247" src="https://github.com/user-attachments/assets/3bac5557-a180-4f42-b353-2d18944cdc8d" />
