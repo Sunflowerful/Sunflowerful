@@ -12,6 +12,24 @@
 ---------
 [LINK](https://link1/) ㅤ𖹭ㅤ۪ [LINK](https://link2/) 
 
-info info info
+<br>
+<br>
+  <table>
+    <tr>
+      <td>
+        <br>
+$\color{#c4582b}{\textsf{info info info info info info info info}}$<br>
+$\color{#c4582b}{\textsf{info info info info info info info info}}$<br>
+$\color{#c4582b}{\textsf{info info info info info info info info}}$<br>
+$\color{#c4582b}{\textsf{info info info info info info info info}}$<br>
+$\color{#c4582b}{\textsf{info info info info info info info info}}$<br>
+$\color{#c4582b}{\textsf{info info info info info info info info}}$<br>
+$\color{#c4582b}{\textsf{info info info info info info info info}}$<br>
+$\color{#c4582b}{\textsf{info info info info info info info info}}$<br>
+$\color{#c4582b}{\textsf{info info info info info info info info}}$
+        <br>
+          <br>
+      </td>
+    </tr>
+  </table>
 
-txt txt
