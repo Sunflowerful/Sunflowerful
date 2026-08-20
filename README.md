@@ -7,27 +7,6 @@
 
 ---------
 
-<br>
-<br>
-  <table>
-    <tr>
-      <td>
-        <br>
-$\color{#c4582b}{\textsf{info info info info info info info info}}$<br>
-$\color{#c4582b}{\textsf{info info info info info info info info}}$<br>
-$\color{#c4582b}{\textsf{info info info info info info info info}}$<br>
-$\color{#c4582b}{\textsf{info info info info info info info info}}$<br>
-$\color{#c4582b}{\textsf{info info info info info info info info}}$<br>
-$\color{#c4582b}{\textsf{info info info info info info info info}}$<br>
-$\color{#c4582b}{\textsf{info info info info info info info info}}$<br>
-$\color{#c4582b}{\textsf{info info info info info info info info}}$<br>
-$\color{#c4582b}{\textsf{info info info info info info info info}}$
-        <br>
-          <br>
-      </td>
-    </tr>
-  </table>
-
 
 
 
@@ -106,39 +85,3 @@ $\color{#E0CECE}{\textsf{ english ISN'T my first lang so it will be bad grammar}
 <img width="1998" height="1223" alt="1000018252" src="https://github.com/user-attachments/assets/007787ef-872b-49fb-bca3-7bb7d8585716" />
 
 
-<br>
-<br>
-  <table>
-    <tr>
-      <td>
-        <br>
-$\color{#c4582b}{\textsf{info info info info info info info info}}$<br>
-$\color{#c4582b}{\textsf{info info info info info info info info}}$<br>
-$\color{#c4582b}{\textsf{info info info info info info info info}}$<br>
-$\color{#c4582b}{\textsf{info info info info info info info info}}$<br>
-$\color{#c4582b}{\textsf{info info info info info info info info}}$<br>
-$\color{#c4582b}{\textsf{info info info info info info info info}}$<br>
-$\color{#c4582b}{\textsf{info info info info info info info info}}$<br>
-$\color{#c4582b}{\textsf{info info info info info info info info}}$<br>
-$\color{#c4582b}{\textsf{info info info info info info info info}}$
-        <br>
-          <br>
-      </td>
-    </tr>
-  </table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--------------
